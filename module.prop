@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=ali_safetypatch
+name=SafetyPatch for Moto G6 (ali)
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author= DessertArbiter
+description=it should work
